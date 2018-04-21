@@ -1,0 +1,315 @@
+<svg height="3118" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="3118" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26"></tspan>
+
+<tspan x="10" y="42">[MODE_BUILD=npmTestPublished] - 2018-04-21T18:46:58.106Z - npm-testing /tmp/npmTestPublished/nod\</tspan>
+<tspan x="10" y="58">e_modules/swgg-github-teams</tspan>
+
+<tspan x="10" y="74"></tspan>
+
+<tspan x="10" y="90"></tspan>
+
+<tspan x="10" y="106">covering $ /home/travis/.nvm/versions/node/v9.11.1/bin/node /tmp/npmTestPublished/node_modules/s\</tspan>
+<tspan x="10" y="122">wgg-github-teams/test.js</tspan>
+
+<tspan x="10" y="138">override assets assets.swgg.swagger.json</tspan>
+
+<tspan x="10" y="154">&gt; server listening on http-port 58755</tspan>
+
+<tspan x="10" y="170">apidocCreate - readExample /tmp/npmTestPublished/node_modules/swgg-github-teams/package.json</tspan>
+
+<tspan x="10" y="186">apidocCreate - readExample /tmp/npmTestPublished/node_modules/swgg-github-teams/assets.swgg.swag\</tspan>
+<tspan x="10" y="202">ger.json</tspan>
+
+<tspan x="10" y="218">apidocCreate - readExample /tmp/npmTestPublished/node_modules/swgg-github-teams/lib.swgg_github_\</tspan>
+<tspan x="10" y="234">teams.js</tspan>
+
+<tspan x="10" y="250">apidocCreate - readExample /tmp/npmTestPublished/node_modules/swgg-github-teams/LICENSE</tspan>
+
+<tspan x="10" y="266">apidocCreate - readExample /tmp/npmTestPublished/node_modules/swgg-github-teams/package.json</tspan>
+
+<tspan x="10" y="282">apidocCreate - readExample /tmp/npmTestPublished/node_modules/swgg-github-teams/package-lock.jso\</tspan>
+<tspan x="10" y="298">n</tspan>
+
+<tspan x="10" y="314">apidocCreate - readExample /tmp/npmTestPublished/node_modules/swgg-github-teams/README.md</tspan>
+
+<tspan x="10" y="330">apidocCreate - readExample /tmp/npmTestPublished/node_modules/swgg-github-teams/test.js</tspan>
+
+<tspan x="10" y="346">apidocCreate - requiring /tmp/npmTestPublished/node_modules/swgg-github-teams ...</tspan>
+
+<tspan x="10" y="362">apidocCreate - ... required /tmp/npmTestPublished/node_modules/swgg-github-teams</tspan>
+
+<tspan x="10" y="378">created apidoc file /home/travis/build/kaizhu256/node-swgg-github-teams/tmp/build/apidoc.html</tspan>
+
+<tspan x="10" y="394"></tspan>
+
+<tspan x="10" y="410">[node test-case 1 of 8 passed] - testCase_buildApidoc_default</tspan>
+
+<tspan x="10" y="426">[node test-case 2 of 8 passed] - testCase_buildCustomOrg_default</tspan>
+
+<tspan x="10" y="442">[node test-case 3 of 8 passed] - testCase_buildLib_default</tspan>
+
+<tspan x="10" y="458">[node test-case 4 of 8 passed] - testCase_buildReadme_default</tspan>
+
+<tspan x="10" y="474">[node test-case 5 of 8 passed] - testCase_buildTest_default</tspan>
+
+<tspan x="10" y="490">[node test-case 6 of 8 passed] - testCase_nop_default</tspan>
+
+<tspan x="10" y="506">(node:5567) ExperimentalWarning: The http2 module is an experimental API.</tspan>
+
+<tspan x="10" y="522">(node:5567) [DEP0025] DeprecationWarning: sys is deprecated. Use util instead.</tspan>
+
+<tspan x="10" y="538">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+
+<tspan x="10" y="554"></tspan>
+
+<tspan x="10" y="570">browserTest - created electron entry-page /tmp/npmTestPublished/node_modules/swgg-github-teams/t\</tspan>
+<tspan x="10" y="586">mp/electron.162e987e55d0.eab6fbb3a5fe2.html</tspan>
+
+<tspan x="10" y="602"></tspan>
+
+<tspan x="10" y="618">Xlib:  extension "RANDR" missing on display ":99.0".</tspan>
+
+<tspan x="10" y="634">[5689:0421/184700.623689:WARNING:audio_manager.cc(295)] Multiple instances of AudioManager detec\</tspan>
+<tspan x="10" y="650">ted</tspan>
+
+<tspan x="10" y="666">[5689:0421/184700.624321:WARNING:audio_manager.cc(254)] Multiple instances of AudioManager detec\</tspan>
+<tspan x="10" y="682">ted</tspan>
+
+<tspan x="10" y="698">[5723:0421/184700.735687:ERROR:sandbox_linux.cc(343)] InitializeSandbox() called with multiple t\</tspan>
+<tspan x="10" y="714">hreads in process gpu-process. </tspan>
+
+<tspan x="10" y="730">[5689:0421/184700.748445:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="746">l.</tspan>
+
+<tspan x="10" y="762">[5689:0421/184700.757244:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="778">l.</tspan>
+
+<tspan x="10" y="794">[5689:0421/184700.768616:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="810">l.</tspan>
+
+<tspan x="10" y="826">[5689:0421/184700.783879:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="842">l.</tspan>
+
+<tspan x="10" y="858">[5689:0421/184700.793806:ERROR:browser_gpu_channel_host_factory.cc(125)] Failed to create channe\</tspan>
+<tspan x="10" y="874">l.</tspan>
+
+<tspan x="10" y="890">&gt; server listening on http-port 51823</tspan>
+
+<tspan x="10" y="906"></tspan>
+
+<tspan x="10" y="922">browserTest - opened http://127.0.0.1:58755/index.default.html?modeTest=1</tspan>
+
+<tspan x="10" y="938"></tspan>
+
+<tspan x="10" y="954">[5689:0421/184701.448862:INFO:CONSOLE(71)] "[browser test-case 1 of 8 passed] - testCase_buildAp\</tspan>
+<tspan x="10" y="970">idoc_default", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.\</tspan>
+<tspan x="10" y="986">162e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1002">[5689:0421/184701.449256:INFO:CONSOLE(71)] "[browser test-case 2 of 8 passed] - testCase_buildAp\</tspan>
+<tspan x="10" y="1018">p_default", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162\</tspan>
+<tspan x="10" y="1034">e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1050">[5689:0421/184701.452601:INFO:CONSOLE(71)] "[browser test-case 3 of 8 passed] - testCase_buildCu\</tspan>
+<tspan x="10" y="1066">stomOrg_default", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electr\</tspan>
+<tspan x="10" y="1082">on.162e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1098">[5689:0421/184701.454205:INFO:CONSOLE(71)] "[browser test-case 4 of 8 passed] - testCase_buildLi\</tspan>
+<tspan x="10" y="1114">b_default", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162\</tspan>
+<tspan x="10" y="1130">e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1146">[5689:0421/184701.456639:INFO:CONSOLE(71)] "[browser test-case 5 of 8 passed] - testCase_buildRe\</tspan>
+<tspan x="10" y="1162">adme_default", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.\</tspan>
+<tspan x="10" y="1178">162e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1194">[5689:0421/184701.456675:INFO:CONSOLE(71)] "[browser test-case 6 of 8 passed] - testCase_buildTe\</tspan>
+<tspan x="10" y="1210">st_default", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.16\</tspan>
+<tspan x="10" y="1226">2e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1242">[5689:0421/184701.458997:INFO:CONSOLE(71)] "[browser test-case 7 of 8 passed] - testCase_nop_def\</tspan>
+<tspan x="10" y="1258">ault", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e\</tspan>
+<tspan x="10" y="1274">55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1290">[5689:0421/184701.465322:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 0. 0 .colorError {", \</tspan>
+<tspan x="10" y="1306">source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0.ea\</tspan>
+<tspan x="10" y="1322">b6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1338">[5689:0421/184701.465355:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 1. 0 .colorError {", \</tspan>
+<tspan x="10" y="1354">source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0.ea\</tspan>
+<tspan x="10" y="1370">b6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1386">[5689:0421/184701.465377:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 2. 0 .testReportDiv .\</tspan>
+<tspan x="10" y="1402">testFailed {", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.\</tspan>
+<tspan x="10" y="1418">162e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1434">[5689:0421/184701.467292:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 3. 0 .testReportDiv i\</tspan>
+<tspan x="10" y="1450">mg {", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e\</tspan>
+<tspan x="10" y="1466">55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1482">[5689:0421/184701.468626:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 4. 1 .testReportDiv .\</tspan>
+<tspan x="10" y="1498">displayNone {", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron\</tspan>
+<tspan x="10" y="1514">.162e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1530">[5689:0421/184701.469355:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 5. 1 .testReportDiv .\</tspan>
+<tspan x="10" y="1546">footer {", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e\</tspan>
+<tspan x="10" y="1562">987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1578">[5689:0421/184701.469401:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 6. 1 .testReportDiv .\</tspan>
+<tspan x="10" y="1594">summary {", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162\</tspan>
+<tspan x="10" y="1610">e987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1626">[5689:0421/184701.469422:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 7. 1 .testReportDiv p\</tspan>
+<tspan x="10" y="1642">re {", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e\</tspan>
+<tspan x="10" y="1658">55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1674">[5689:0421/184701.469765:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 8. 1 .testReportDiv {\</tspan>
+<tspan x="10" y="1690">", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0\</tspan>
+<tspan x="10" y="1706">.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1722">[5689:0421/184701.469795:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 9. 1 .uiAnimateShake \</tspan>
+<tspan x="10" y="1738">{", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d\</tspan>
+<tspan x="10" y="1754">0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1770">[5689:0421/184701.471009:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 10. 1 .uiAnimateShake\</tspan>
+<tspan x="10" y="1786"> {", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55\</tspan>
+<tspan x="10" y="1802">d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1818">[5689:0421/184701.475373:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 11. 1 .zeroPixel {", \</tspan>
+<tspan x="10" y="1834">source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0.ea\</tspan>
+<tspan x="10" y="1850">b6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1866">[5689:0421/184701.475442:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 12. 1 .zeroPixel {", \</tspan>
+<tspan x="10" y="1882">source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0.ea\</tspan>
+<tspan x="10" y="1898">b6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1914">[5689:0421/184701.477173:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 13. 1 body &gt; pre,", s\</tspan>
+<tspan x="10" y="1930">ource: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0.eab\</tspan>
+<tspan x="10" y="1946">6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="1962">[5689:0421/184701.477475:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 14. 1 body &gt; pre,", s\</tspan>
+<tspan x="10" y="1978">ource: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0.eab\</tspan>
+<tspan x="10" y="1994">6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="2010">[5689:0421/184701.477740:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 15. 1 code,", source:\</tspan>
+<tspan x="10" y="2026"> file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0.eab6fbb3a\</tspan>
+<tspan x="10" y="2042">5fe2.html (71)</tspan>
+
+<tspan x="10" y="2058">[5689:0421/184701.478030:INFO:CONSOLE(71)] "validateDocumentStyleUnmatched 16. 1 code,", source:\</tspan>
+<tspan x="10" y="2074"> file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0.eab6fbb3a\</tspan>
+<tspan x="10" y="2090">5fe2.html (71)</tspan>
+
+<tspan x="10" y="2106">[5689:0421/184701.478433:INFO:CONSOLE(71)] "[browser test-case 8 of 8 passed] - testCase_webpage\</tspan>
+<tspan x="10" y="2122">_default", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e\</tspan>
+<tspan x="10" y="2138">987e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="2154">[5689:0421/184702.471223:INFO:CONSOLE(71)] "----------|-----------|-----------|-----------|-----\</tspan>
+<tspan x="10" y="2170">------|</tspan>
+
+<tspan x="10" y="2186">File      |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+
+<tspan x="10" y="2202">----------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="2218">----------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="2234">All files |       100 |       100 |       100 |       100 |</tspan>
+
+<tspan x="10" y="2250">----------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="2266">", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987e55d0\</tspan>
+<tspan x="10" y="2282">.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="2298">[5689:0421/184702.477638:INFO:CONSOLE(71)] "created coverage file /tmp/build/coverage.html/index\</tspan>
+<tspan x="10" y="2314">.html", source: file:///tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/electron.162e987\</tspan>
+<tspan x="10" y="2330">e55d0.eab6fbb3a5fe2.html (71)</tspan>
+
+<tspan x="10" y="2346">[node test-case 7 of 8 passed] - testCase_buildApp_default</tspan>
+
+<tspan x="10" y="2362"></tspan>
+
+<tspan x="10" y="2378">browserTest - created screenshot file /home/travis/build/kaizhu256/node-swgg-github-teams/tmp/bu\</tspan>
+<tspan x="10" y="2394">ild/screenshot.npmTestPublished.browser.%2F.png</tspan>
+
+<tspan x="10" y="2410"></tspan>
+
+<tspan x="10" y="2426">browserTest - created screenshot file /home/travis/build/kaizhu256/node-swgg-github-teams/tmp/bu\</tspan>
+<tspan x="10" y="2442">ild/screenshot.npmTestPublished.browser.%2F.html</tspan>
+
+<tspan x="10" y="2458"></tspan>
+
+<tspan x="10" y="2474">browserTest - merged coverage from file /tmp/npmTestPublished/node_modules/swgg-github-teams/tmp\</tspan>
+<tspan x="10" y="2490">/coverage.npmTestPublished.browser.%2Findex.default.html.json</tspan>
+
+<tspan x="10" y="2506"></tspan>
+
+<tspan x="10" y="2522"></tspan>
+
+<tspan x="10" y="2538">browserTest - merged test-report from file /tmp/npmTestPublished/node_modules/swgg-github-teams/\</tspan>
+<tspan x="10" y="2554">tmp/test-report.npmTestPublished.browser.%2Findex.default.html.json</tspan>
+
+<tspan x="10" y="2570"></tspan>
+
+<tspan x="10" y="2586">[node test-case 8 of 8 passed] - testCase_webpage_default</tspan>
+
+<tspan x="10" y="2602">-------------------------------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="2618">File                           |   % Stmts |% Branches |   % Funcs |   % Lines |</tspan>
+
+<tspan x="10" y="2634">-------------------------------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="2650">   swgg-github-teams/          |       100 |       100 |       100 |       100 |</tspan>
+
+<tspan x="10" y="2666">      example.js               |       100 |       100 |       100 |       100 |</tspan>
+
+<tspan x="10" y="2682">      lib.swgg_github_teams.js |       100 |       100 |       100 |       100 |</tspan>
+
+<tspan x="10" y="2698">      test.js                  |       100 |       100 |       100 |       100 |</tspan>
+
+<tspan x="10" y="2714">-------------------------------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="2730">All files                      |       100 |       100 |       100 |       100 |</tspan>
+
+<tspan x="10" y="2746">-------------------------------|-----------|-----------|-----------|-----------|</tspan>
+
+<tspan x="10" y="2762"></tspan>
+
+<tspan x="10" y="2778">created coverage file /tmp/npmTestPublished/node_modules/swgg-github-teams/tmp/build/coverage.ht\</tspan>
+<tspan x="10" y="2794">ml/index.html</tspan>
+
+<tspan x="10" y="2810"></tspan>
+
+<tspan x="10" y="2826">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="2842">| test-report - npmTestPublished - browser - /index.default.html - Mozilla/5.0 (X11; Linux x86_6\</tspan>
+<tspan x="10" y="2858">4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Electron/1.7.13 Safari/537.36 - 2\</tspan>
+<tspan x="10" y="2874">018-04-21T18:47:01.386Z</tspan>
+
+<tspan x="10" y="2890">|      21 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="2906">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="2922">| test-report - npmTestPublished - node - linux v9.11.1 - 2018-04-21T18:46:58.522Z</tspan>
+
+<tspan x="10" y="2938">|   17197 ms            0 failed        8 passed      |</tspan>
+
+<tspan x="10" y="2954">-------------------------------------------------------</tspan>
+
+<tspan x="10" y="2970"></tspan>
+
+<tspan x="10" y="2986">created test-report file /home/travis/build/kaizhu256/node-swgg-github-teams/tmp/build/test-repo\</tspan>
+<tspan x="10" y="3002">rt.html</tspan>
+
+<tspan x="10" y="3018"></tspan>
+
+<tspan x="10" y="3034"></tspan>
+
+<tspan x="10" y="3050">npmTestPublished - 0 failed tests</tspan>
+
+<tspan x="10" y="3066"></tspan>
+
+<tspan x="10" y="3082"></tspan>
+
+<tspan x="10" y="3098">[MODE_BUILD=npmTestPublished] - 2018-04-21T18:47:17.567Z - EXIT_CODE - 0</tspan>
+
+</text>
+</svg>
